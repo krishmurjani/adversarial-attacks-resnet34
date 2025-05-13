@@ -1,4 +1,4 @@
-# Adversarial Attacks on ResNet-34
+# Deep Learning Project 3: Adversarial Attacks on ResNet-34
 
 This repository contains the implementation of various adversarial attacks against a pre-trained ResNet-34 model as part of the Deep Learning Project 3 (Spring 2025).
 
