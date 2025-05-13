@@ -73,9 +73,7 @@ Each notebook is self-contained and can be run independently:
 4. (Coming soon) Task 4 and Task 5 implementations
 
 ## Team Members
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
+- Karthik Krapa ()
+- Krish Murjani (km6520)
+- Pratham Saraf (ps5218)
 
-## License
-[Your License Choice]
