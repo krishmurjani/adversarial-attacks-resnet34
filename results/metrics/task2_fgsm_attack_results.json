@@ -1,0 +1,28 @@
+{
+    "attack_type": "FGSM",
+    "model": "ResNet-34",
+    "epsilon": 0.02,
+    "dataset_size": 500,
+    "performance_metrics": {
+        "original": {
+            "top1_accuracy": 0.006,
+            "top5_accuracy": 0.014
+        },
+        "adversarial": {
+            "top1_accuracy": 0.002,
+            "top5_accuracy": 0.006
+        },
+        "drops": {
+            "absolute_top1_drop": 0.004,
+            "absolute_top5_drop": 0.008,
+            "relative_top1_drop_percent": 66.66666666666666,
+            "relative_top5_drop_percent": 57.14285714285714
+        }
+    },
+    "perturbation_stats": {
+        "average_l_inf_distance": 0.020000097572803497,
+        "maximum_l_inf_distance": 0.020000100135803223,
+        "l_inf_constraint_satisfied": false
+    },
+    "successful_attacks": 2
+}

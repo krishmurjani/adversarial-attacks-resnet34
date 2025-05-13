@@ -1,0 +1,15 @@
+{
+    "epsilon": 0.0199,
+    "steps": 20,
+    "original_top1_accuracy": 76.0,
+    "original_top5_accuracy": 94.2,
+    "adversarial_top1_accuracy": 0.6,
+    "adversarial_top5_accuracy": 0.8,
+    "top1_accuracy_drop": 75.4,
+    "top5_accuracy_drop": 93.4,
+    "relative_top1_drop": 99.21052631578948,
+    "relative_top5_drop": 99.15074309978769,
+    "top1_attack_success_rate_overall": 99.4,
+    "top1_attack_success_rate_correct_only": 130.78947368421052,
+    "top5_attack_success_rate": 99.15074309978769
+}
