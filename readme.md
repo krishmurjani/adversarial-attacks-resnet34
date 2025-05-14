@@ -38,10 +38,10 @@ Evaluation of how our adversarial examples transfer to other model architectures
 
 | Dataset | Top-1 Accuracy | Top-5 Accuracy |
 |---------|---------------|---------------|
-| Original Test Set | TBD | TBD |
-| Adversarial Test Set 1 (FGSM) | TBD | TBD |
-| Adversarial Test Set 2 (Enhanced PGD) | TBD | TBD |
-| Adversarial Test Set 3 (Patch Attack) | TBD | TBD |
+| Original Test Set | 76.0% | 94.2% |
+| Adversarial Test Set 1 (FGSM) | 29.2% | 43.5% |
+| Adversarial Test Set 2 (Enhanced PGD) | 0.6% | 0.8% |
+| Adversarial Test Set 3 (Patch Attack) | 33.5% | 47.8% |
 
 ## Requirements
 
@@ -69,7 +69,7 @@ Each notebook is self-contained and can be run independently:
 
 
 ## Team Members
-- Karthik Krapa ()
-- Krish Murjani (km6520)
-- Pratham Saraf (ps5218)
+- Krish Murjani [km6520]
+- Pratham Saraf [ps5218]
+- Krapa Karthik [kk5754]
 
