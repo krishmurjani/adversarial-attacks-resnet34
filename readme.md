@@ -14,11 +14,8 @@ The goal of this project is to implement effective adversarial attacks that degr
 
 ## Repository Structure
 
-- `notebooks/`: Jupyter notebooks implementing each task
+- `notebooks/`: Jupyter notebooks implementing the tasks
 - `results/`: Performance metrics and visualizations
-- `data/`: Class mappings and other required data files
-- `src/`: Reusable utility functions extracted from notebooks
-- `adversarial_datasets/`: Generated adversarial example datasets
 
 ## Tasks and Results
 
@@ -32,10 +29,10 @@ Implementation of the Fast Gradient Sign Method (FGSM) attack with ε = 0.02, cr
 An improved attack using Projected Gradient Descent with momentum specifically designed to remove the true class from the top-5 predictions.
 
 ### Task 4: Patch Attack
-(To be implemented) Concentrated attacks on small 32x32 regions of the image.
+Concentrated attacks on small 32x32 regions of the image.
 
 ### Task 5: Transferability Analysis
-(To be implemented) Evaluation of how our adversarial examples transfer to other model architectures.
+Evaluation of how our adversarial examples transfer to other model architectures.
 
 ## Key Results
 
