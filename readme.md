@@ -64,10 +64,9 @@ pip install -r requirements.txt
 
 Each notebook is self-contained and can be run independently:
 
-1. First run `notebooks/task1_model_evaluation.ipynb` to establish baseline performance
-2. Run `notebooks/task2_fgsm_attack.ipynb` to generate the FGSM adversarial examples
-3. Run `notebooks/task3_enhanced_pgd_attack.ipynb` to generate the enhanced PGD adversarial examples
-4. (Coming soon) Task 4 and Task 5 implementations
+1. First install the requirements.
+2. Then run `notebooks/dl-project-3-adversarial-attacks.ipynb` to establish all five tasks.
+
 
 ## Team Members
 - Karthik Krapa ()
